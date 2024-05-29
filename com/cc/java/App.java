@@ -12,9 +12,9 @@ public class App {
         pollObj(worker);
         pollObj(drone);
 
-        //-- Das sollte eigentlich nicht gehen!--//
-        HoneyBee bee = new HoneyBee(); // SuperKlasse!
-        pollObj(bee);
+        //-- Das geht nicht mehr--//
+        // HoneyBee bee = new HoneyBee(); // SuperKlasse!
+        // pollObj(bee);
 
         
     }
